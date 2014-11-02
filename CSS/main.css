@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 2em; 
+}
+
+form {
+    text-align: center;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+#output {
+    display: none;
+    height: 100px;
+    width: 400px;
+    background-color: #aaaaaa;
+    margin: auto;
+    margin-top: 1em;
+}
